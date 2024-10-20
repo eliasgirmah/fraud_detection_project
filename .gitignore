@@ -1,11 +1,12 @@
 
 # Exclude the following files and directories from remote repo
 .venv/
-.env
 __pycache__/
 data/
 data.zip
 README.pdf
 logs/
+log/
+output/
 
 
